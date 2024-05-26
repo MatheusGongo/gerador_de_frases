@@ -1,16 +1,18 @@
-# gerador_de_frases
+# GERADOR DE FRASES APP
 
-A new Flutter project.
+- Aplicativo sobre Gerador de Frases
+- Possui funcionalidade de gerar frases (diversos temas), favoritar/desfavoritar frases e compartilhar frases.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+# Integrantes
 
-A few resources to get you started if this is your first Flutter project:
+- Matheus Gongo de Souza - Matrícula: 121100005
+- Daniel Realli Gaspar Loureiro - Matrícula: 122100019
+- Arthur Ricardo da Silva Sabino - Matrícula: 223100009
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Captura de Tela do App
+
+![alt text](https://i.ibb.co/nwZjh5Y/Capturar.png)
