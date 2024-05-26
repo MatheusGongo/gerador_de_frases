@@ -16,3 +16,7 @@
 # Captura de Tela do App
 
 ![alt text](https://i.ibb.co/nwZjh5Y/Capturar.png)
+
+![alt text](https://i.ibb.co/fpJyYjr/1.png)
+
+![alt text](https://i.ibb.co/XXrTsSC/2.png)
